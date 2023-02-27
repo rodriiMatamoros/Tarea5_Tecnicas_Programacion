@@ -1,8 +1,8 @@
 # Tarea5_Tecnicas_Programacion
 Tarea 5 Curso_22_23_Tecnicas
 
-Mi repositorio es:
-Ejercicios
+Mi repositorio es: https://github.com/rodriiMatamoros/Tarea5_Tecnicas_Programacion.git
+
 ## 1. Despegue inmediato
 Crear un algoritmo escribiendo los valores comprendidos entre diez y cero en orden descendente en una tabla, y posteriormente recorrer esta tabla para mostrar la cuenta hacia atrás.
 
