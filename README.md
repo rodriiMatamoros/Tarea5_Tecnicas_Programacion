@@ -1,10 +1,12 @@
 # Tarea5_Tecnicas_Programacion
 Tarea 5 Curso_22_23_Tecnicas
+
+Mi repositorio es:
 Ejercicios
-1. Despegue inmediato
+## 1. Despegue inmediato
 Crear un algoritmo escribiendo los valores comprendidos entre diez y cero en orden descendente en una tabla, y posteriormente recorrer esta tabla para mostrar la cuenta hacia atrás.
 
-2. Número de ocurrencias
+## 2. Número de ocurrencias
 Realizar un algoritmo que haga que el usuario introduzca tantas cifras comprendidas entre cero y nueve como desee. Una vez que el usuario ha terminado su serie introduciendo -1, el algoritmo muestra el número de veces que se ha escrito cada dígito.
 
 Ejemplo de ejecución:
@@ -53,7 +55,7 @@ Cantidad de 8: 0
 
 Cantidad de 9: 1
 
-3. Nota media (versión 4)
+## 3. Nota media (versión 4)
 Producir un algoritmo agregando notas en una tabla. Al final, mostrar todas las calificaciones y su media.
 
 Ejemplo de ejecución del algoritmo:
@@ -80,7 +82,7 @@ Ejemplo de ejecución del algoritmo:
 
 La media de las notas (12; 15; 8; 7) es 10,5.
 
-4. Máquina de votar
+## 4. Máquina de votar
 Cree un algoritmo que pida a los usuarios que voten (los usuarios se turnarán para usar su máquina de votación). Se proponen varios candidatos. Al final del día, el presidente de la mesa de votación introduce un código especial para finalizar la votación (68753421) y se muestran los resultados. Eso sí, este ejercicio es teórico, ya que la seguridad no está garantizada y un usuario puede votar varias veces...
 
 Ejemplo de ejecución del algoritmo:
@@ -205,7 +207,7 @@ María AGUAVIVA: 28,57 %
 
 Nadia LETUX: 57,14 %
 
-5. Palíndromo
+## 5. Palíndromo
 Un palíndromo es una palabra cuyo orden de letras sigue siendo el mismo si se lee de izquierda a derecha o de derecha a izquierda. Ejemplos: Kayak, Ana, radar, rotor, etc.
 
 Escriba un algoritmo que pida al usuario una palabra sin acento, en minúsculas y seguida de un carácter en particular para indicar el final (# por ejemplo), y que le diga al usuario si esta palabra es un palíndromo.
@@ -218,11 +220,11 @@ kayak#
 
 kayak es un palíndromo
 
-6. ¿Qué hace?
+## 6. ¿Qué hace?
 ¿Qué contiene la tabla generada por el algoritmo siguiente?
 
 Algo QueHace  
-# ??  
+ ??  
 Constante TAMAÑO       : entero <- 3  
 Variable i, j, val: entero  
 Variable tab2d: entero[TAMAÑO][TAMAÑO]  
@@ -271,10 +273,10 @@ Modificar el algoritmo nuevamente, para tener los siguientes valores en la tabla
 
 6
 
-7. Matriz
+## 7. Matriz
 Crear una tabla de caracteres bidimensional de tamaño 20×30, en la que se colocan caracteres elegidos al azar. Mostrar la tabla generada.
 
-8. Micro guerra de barcos
+## 8. Micro guerra de barcos
 Realizar un algoritmo que permita jugar a los barcos con las siguientes simplificaciones:
 
 Solo hay un jugador.
@@ -329,8 +331,8 @@ Tocado y hundido
 
 Ha ganado
 
-9. Tres en raya
+## 9. Tres en raya
 Crear un algoritmo para jugar a tres en raya: en una cuadrícula de tres celdas por tres, los jugadores se turnan para escribir su símbolo (X y O) en una celda vacía. El primer jugador que logre alinear (en fila, columna o diagonal) tres de sus símbolos, gana.
 
-10. Registro de Empleados
+## 10. Registro de Empleados
 Los empleados de una cierta compañía se representan en la base de datos de la compañía por su nombre,número de empleado y número de la seguridad social.Construir una estructura de tablas hash que permita acceder al registro de un empleado por cualquiera de estos tres datos.(Nota:No se dispone de memoria suficiente para duplicar los registros de los empleados).
