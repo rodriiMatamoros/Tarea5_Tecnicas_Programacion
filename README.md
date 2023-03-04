@@ -274,7 +274,7 @@ Modificar el algoritmo nuevamente, para tener los siguientes valores en la tabla
 6
 
 ## 7. Matriz
-xx
+Crear una tabla de caracteres bidimensional de tamaño 20×30, en la que se colocan caracteres elegidos al azar. Mostrar la tabla generada.
 
 ## 8. Micro guerra de barcos
 Realizar un algoritmo que permita jugar a los barcos con las siguientes simplificaciones:
